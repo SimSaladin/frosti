@@ -8,9 +8,23 @@ Varoitus: tämä luento ei sovellu kenellekään.
 
 == RADICAL FREEDOM ==
 
-# For science!
+![](img/compy_compy.jpg)
 
+Miten tehdä tiedettä
 
 == RADICAL FREEDOM ==
 
-![](compy_compy.jpg)
+<video controls=yes>
+   <source data-src="kageki-boobs.webm" type="video/webm" />
+</video>
+
+== RADICAL FREEDOM ==
+
+- TTGL
+- HxD Tissit
+- PP,CS
+- Leivänpaahdin / vedenkeitin
+- BPS
+- SnK
+- Lolit
+- Parasyte
