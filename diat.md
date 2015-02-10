@@ -8,12 +8,34 @@ Varoitus: tämä luento ei sovellu kenellekään.
 
 == RADICAL FREEDOM ==
 
+# Me olemme
+
+![](img/face-stein.jpg) <!-- .element: style="width:31.5%" -->
+![](img/face-hakase.png) <!-- .element: style="width:33.2%" -->
+![](img/face-bps.jpg) <!-- .element: style="width:26%" -->
+<div style="float:left;width:33%;text-align:middle">
+*Katiska*  
+Ahti Katiska
+</div>
+<div style="float:left;width:33.2%">
+*Magemanne*  
+Niko Molin
+</div>
+<div style="float:left;width:33%">
+*bps*  
+Samuli Thomasson
+</div>
+
+- Tutkii ja selittää ilmiöitä ja niiden välisiä suhteita
+- Järjestelmällistä ja järkiperäistä
+
+== CAPTAIN METAPHYSICS ==
 ![](img/compy_compy.jpg)
 
-Miten tehdä tiedettä
+== CAPTAIN METAPHYSICS ==
+![](img/steins-gate-mad-scientist.png) <!-- .element: style="width:100%" -->
 
 == RADICAL FREEDOM ==
-
 <video controls=yes>
    <source data-src="kageki-boobs.webm" type="video/webm" />
 </video>
@@ -21,28 +43,36 @@ Miten tehdä tiedettä
 == RADICAL FREEDOM ==
 # Tissit mainittu
 
-![](img/hotd_boobs_ultrasonic.gif)
-![](img/grenadier_boobs_reload.gif)
+![](img/hotd_boobs_ultrasonic.gif) <!-- .element: class="fragment grow" -->
+![](img/grenadier_boobs_reload.gif) <!-- .element: class="fragment grow" -->
 
 == CAPTAIN METAPHYSICS ==
-## Yliäänitissit
-### Highschool of the Dead
+## Yliäänitissit?
+### Saeko Busujima (Highschool of the Dead)
 ![](img/hotd_measures.png)
 
 == CAPTAIN METAPHYSICS ==
 ![](img/hotd_timeframe.png)
 
 == CAPTAIN METAPHYSICS ==
+![](img/hotd_timeframe_top.png)
+
+== CAPTAIN METAPHYSICS ==
+
 - 120 aikayksikössä luoti näyttäisi kulkevan noin 1,5m matkan.
 - Luodin nopeus on noin 900m/s, eli koko liikesarja tapahtuu **0.0017** sekunnissa.
 - Huomataan, että taaemman tissin korkein kohta liikkuu noin 0.2m aikavälillä
   t = 30...80, jolloin sen keskivauhti on vähintään 0.2m / (80 / 120 * 0.0017s)
   = 280m/s.
-- Kun kiihdytys huomioidaan niin nopeus on väistämättä yli (monenkertainen)
-  äänennopeus.
 
 == CAPTAIN METAPHYSICS ==
-![](img/hotd_timeframe_top.png)
+<!-- .slide: data-background="img/FA-18_going_transonic.JPG" -->
+
+![](img/hotd_saeko.jpg) <!-- .element: class="fragment" data-fragment-index="2" -->
+
+*Kun (kahdesti) kiihdytys huomioidaan saadaan tietää, että Saekon tissit
+todellakin pystyvät kulkemaan (monenkertaista) äänennopeutta.*
+ <!-- .element: class="fragment" data-fragment-index="1" -->
 
 == RADICAL FREEDOM ==
 
@@ -64,9 +94,16 @@ Miten tehdä tiedettä
 - TTGL
 - PP,CS
 - Leivänpaahdin / vedenkeitin
-- BPS
 - SnK
 - Lolit
 - Parasyte
 
-- HxD Tissit
+== RADICAL FREEDOM ==
+<!-- .slide: data-background="img/hakase_ippai.jpg" data-background-color="black" -->
+
+# Esitys on ohi <!-- .element: style="background:rgba(0,0,0,0.3)" -->
+
+Tekijätiimi kiittää ja kumartaa, poistuu vähin äänin takavasemmalle eikä vastaa
+esityksessä esiintyneistä asiavirheistä.
+   <!-- .element: style="background:rgba(0,0,0,0.3)" -->
+
