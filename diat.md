@@ -39,7 +39,7 @@ järjestelmällisesti ja järkiperäisesti.*
 
 == CAPTAIN METAPHYSICS ==
 ### Tutkii ilmiöitä...
-![](...)
+![](img/is_pantsu.jpg) <!-- .element: style="width:100%" -->
 
 == CAPTAIN METAPHYSICS ==
 ### ...selittää ne järjestelmällisesti...
@@ -60,6 +60,9 @@ järjestelmällisesti ja järkiperäisesti.*
 - Animen biologia
 
 == RADICAL FREEDOM ==
+<!-- .slide: data-background="img/mikuru_come_with_me.jpg" data-background-size="auto 100%" -->
+
+== RADICAL FREEDOM ==
 
 ### Animen fysiikka
 
@@ -75,7 +78,10 @@ Tekemällä oletuksia tietenkin! Meidän oletuksemme olivat:
 
 - Havaintomme ovat oikeassa
 - Animen maailma on lähellä meidän maailmaamme
-- Tähän kuva jostain sarjasta luokkaa "Well thats just natural"
+
+== CAPTAIN METAPHYSICS ==
+<!-- .slide: data-background="img/migi.jpg" data-background-size="auto 100%" -->
+
 
 == RADICAL FREEDOM ==
 <video controls=yes>
