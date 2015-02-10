@@ -26,14 +26,56 @@ Niko Molin
 Samuli Thomasson
 </div>
 
-- Tutkii ja selittää ilmiöitä ja niiden välisiä suhteita
-- Järjestelmällistä ja järkiperäistä
+== RADICAL FREEDOM ==
+
+## Tieteellinen metodi
+
+![](img/scienceee.jpg) <!-- .element: style="width:50%;float:left" -->
+
+*Tutkii ja selittää ilmiöitä sekä niiden välisiä suhteita
+järjestelmällisesti ja järkiperäisesti.*
+
+<!-- .element: style="margin-top:15%; width:45%; float:right" -->
 
 == CAPTAIN METAPHYSICS ==
+### Tutkii ilmiöitä...
+![](...)
+
+== CAPTAIN METAPHYSICS ==
+### ...selittää ne järjestelmällisesti...
 ![](img/compy_compy.jpg)
 
 == CAPTAIN METAPHYSICS ==
+### ...ja järkiperäisesti
 ![](img/steins-gate-mad-scientist.png) <!-- .element: style="width:100%" -->
+
+== RADICAL FREEDOM ==
+
+## Luennon kulku
+
+- Animen fysiikka
+- Animen teknologia
+  - Mahdollinen
+  - Mahdoton
+- Animen biologia
+
+== RADICAL FREEDOM ==
+
+### Animen fysiikka
+
+<video controls=yes
+  <source data-src="ttgl-galaxy-throw.webm" type="video/webm" />
+</video>
+
+== RADICAL FREEDOM ==
+
+###Miten tätä voi lähestyä tieteellisesti?!
+
+Tekemällä oletuksia tietenkin! Meidän oletuksemme olivat:
+
+- Havaintomme ovat oikeassa
+- Animen maailma on lähellä meidän maailmaamme
+- Tähän kuva jostain sarjasta luokkaa "Well thats just natural"
 
 == RADICAL FREEDOM ==
 <video controls=yes>
