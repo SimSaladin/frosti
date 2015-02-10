@@ -85,6 +85,11 @@ Tekemällä oletuksia tietenkin! Meidän oletuksemme olivat:
 
 == RADICAL FREEDOM ==
 <video controls=yes>
+   <source data-src="leivänpaahdin.webm" type="video/webm" />
+</video>
+
+== RADICAL FREEDOM ==
+<video controls=yes>
    <source data-src="kageki-boobs.webm" type="video/webm" />
 </video>
 
