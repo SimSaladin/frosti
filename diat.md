@@ -70,7 +70,7 @@ järjestelmällisesti ja järkiperäisesti.*
   <source data-src="ttgl-galaxy-throw.webm" type="video/webm" />
 </video>
 
-== RADICAL FREEDOM ==
+== CAPTAIN METAPHYSICS ==
 
 ###Miten tätä voi lähestyä tieteellisesti?!
 
@@ -85,7 +85,7 @@ Tekemällä oletuksia tietenkin! Meidän oletuksemme olivat:
 
 == RADICAL FREEDOM ==
 <video controls=yes>
-   <source data-src="leivänpaahdin.webm" type="video/webm" />
+   <source data-src="leivänpaahdin-a.webm" type="video/webm" />
 </video>
 
 == RADICAL FREEDOM ==
@@ -131,7 +131,7 @@ todellakin pystyvät kulkemaan (monenkertaista) äänennopeutta.*
 
 # BPS
 <video controls=yes>
-   <source data-src="bps-03.webm" type="video/webm" />
+   <source data-src="bps-03a.webm" type="video/webm" />
 </video>
 
 == CAPTAIN METAPHYSICS ==
