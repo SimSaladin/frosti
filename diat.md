@@ -149,22 +149,23 @@ kiihdytys pitäisi huomioida.  Äänen nopeus ilmassa on $343m/s$.
 
 ![](img/250px-219Magcargo.png)
 
-== RADICAL FREEDOM ==
+== CAPTAIN METAPHYSICS ==
 
 - Mitä sanovat pokedexentryt
 	- Magcargo's body temperature is approximately 18,000 degrees F. Water is vaporized on contact. If this Pokémon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog. 
 	- The shell on its back is made of hardened magma. Tens of thousands of years spent living in volcanic craters have turned Magcargo's bodies into magma. 
 	-  Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell. 
 
-== RADICAL FREEDOM ==
+== CAPTAIN METAPHYSICS ==
 
 	Lämpö siirtyy kolmella tavalla
 		Johtumalla
 		Konvektiolla
 		Säteilyllä
+
 	Triviaalisti nähdään että kannattaa tutkia säteilyä
 
-== RADICAL FREEDOM ==
+== CAPTAIN METAPHYSICS ==
 
 Säteilevästä kappaleesta saadaan 
 	$$\frac{Q}{\nabla t}=\varepsilon\sigma A(T^4-T_0^4)$$
@@ -174,7 +175,7 @@ Säteilevästä kappaleesta saadaan
 * T on Säteilevän kappaleen lämpötila.
 * $T_0$ on tässä tilanteessa ulkoilman lämpötila.
 
-== RADICAL FREEDOM ==
+== CAPTAIN METAPHYSICS ==
 
 Oletetaan Magcargo palloksi
 
@@ -186,52 +187,57 @@ $r=0.79m/2=0.39m$
 
 $A=4 \pi r^2 = 1.96m^2$
 
-== RADICAL FREEDOM ==
+== CAPTAIN METAPHYSICS ==
 
-oletetaan mustuudeksi 0.5(en perustele)
+Oletetaan mustuudeksi 0.5(en perustele)
 
 18KF on noin 10255 Kelviniä
 
 
 
-== RADICAL FREEDOM ==
+== CAPTAIN METAPHYSICS ==
 
 Mätetään luvut kaavaan
 	$$\frac{Q}{\nabla t}=(0.5)\sigma (1.96m^2)(10255K^4-313.15K^4)$$
 	= $6.145*10^8$W
 
-== RADICAL FREEDOM ==
+== CAPTAIN METAPHYSICS ==
 
 Jee meillä on nyt pallomme teho
 
 Kuinka paljon tuo oikeastaan on?
 
-== RADICAL FREEDOM ==
+== CAPTAIN METAPHYSICS ==
 
 ![](img/Springfield_Nuclear_Power_Plant.PNG)
 
-== RADICAL FREEDOM ==
+== CAPTAIN METAPHYSICS ==
 
 Jos Magcarco ilmestyy 10m päähän kuinka kusessa olen?
-	On perusteltua olettaa että lämmöneritys on pallosymmetristä
-	Jos ihminen on noin 1.8mm pitkä ja 0.5m leveä on silloin Magcargoon päin kohdistuva pinta-ala $0.9m^2$
-	kokonaisvaikutusalue on $4\pi(10m)^2=1256.6 m^2$
+
+On perusteltua olettaa että lämmöneritys on pallosymmetristä.
+
+Jos ihminen, kutsutaan häntä vaikka jarnoksi, on noin 1.8mm pitkä ja 0.5m leveä on silloin Magcargoon päin kohdistuva pinta-ala $0.9m^2$
+kokonaisvaikutusalue on:
+  
+  $4\pi(10m)^2=1256.6 m^2$
 	$$\frac{0.9m^2}{1256.6m^2}=7.16*10^{-4}$$
 
-== RADICAL FREEDOM ==
+== CAPTAIN METAPHYSICS ==
 
- Jarnoon siirty täten siis energiaa
+Jarnoon siirty täten siis energiaa
  
 ${7.16\times10^{-4}}\times {6.145\times10^8}=4.4\times10^5$W
 
-== RADICAL FREEDOM ==
+== CAPTAIN METAPHYSICS ==
 
 Jarnon lämpökapasiteetti on noin $3.57 kJ kg^{-1} K^{-1}$
 Jarnomme on aika laiha sovitaan että vaikka 65kg
-Tällöin Jarnon lämpötila muuttuu
+Tällöin Jarnon lämpötila muuttuu: 
+
 $\frac{440\frac{kj}{s}}{3.57\frac{kJ}{kg\times K}\times 65kg}=1.9\frac{K}{s}h$
 
-== RADICAL FREEDOM ==
+== CAPTAIN METAPHYSICS ==
 
 Miten kouluttajien naamat sitten eivät syty tuleen?
 	-Jos kouluttajat ovat vetyä heidän lämpönsä nousee vain $0.47\frac{K}{s}$
@@ -245,7 +251,7 @@ Eräs tieteellinen Raidetykki, Kaasupoljin ja Maxwellin Demoni
 
 ![](img/1343835697000.jpg)
 
-== RADICAL FREEDOM ==
+== CAPTAIN METAPHYSICS ==
 
 Kiskotykki alias Misaka Mikoto
 
