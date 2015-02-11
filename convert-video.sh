@@ -9,7 +9,6 @@
 # ./convert-video <infile> <startfrom> <endat> <outputto>
 
 ffmpeg -i "$1" -ss $2 -to $3 \
-   -sn \
    -acodec libvorbis -aq 5 -ac 2 -qmax 25 \
    -threads 2 \
    "$4"

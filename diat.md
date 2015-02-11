@@ -67,7 +67,7 @@ järjestelmällisesti ja järkiperäisesti.*
 ### Animen fysiikka
 
 <video controls=yes
-  <source data-src="ttgl-galaxy-throw.webm" type="video/webm" />
+  <source data-src="ttgl-galaxy-throwing.webm" type="video/webm" />
 </video>
 
 == CAPTAIN METAPHYSICS ==
@@ -243,6 +243,15 @@ Eräs tieteellinen Raidetykki, Kaasupoljin ja Maxwellin Demoni
 Kiskotykki alias Misaka Mikoto
 
 == RADICAL FREEDOM ==
+
+<video controls=yes
+  <source data-src="ttgl-drowning-in-space.webm" type="video/webm" />
+</video>
+
+Ja jokin animen fysiikka on täysin meidän käsityksemme ulkopuolella.
+  
+== RADICAL FREEDOM ==
+
 # Animen teknologia
 
 - Tähän video överiteknologiasta.
