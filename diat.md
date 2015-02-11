@@ -249,7 +249,7 @@ Kiskotykki alias Misaka Mikoto
 </video>
 
 Ja jokin animen fysiikka on täysin meidän käsityksemme ulkopuolella.
-  
+
 == RADICAL FREEDOM ==
 
 # Animen teknologia
