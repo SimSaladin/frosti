@@ -147,9 +147,6 @@ kiihdytys pitäisi huomioida.  Äänen nopeus ilmassa on $343m/s$.
 
 == RADICAL FREEDOM ==
 
-
-== RADICAL FREEDOM ==
-
 ![](img/250px-219Magcargo.png)
 
 == RADICAL FREEDOM ==
@@ -251,17 +248,6 @@ Eräs tieteellinen Raidetykki, Kaasupoljin ja Maxwellin Demoni
 == RADICAL FREEDOM ==
 
 Kiskotykki alias Misaka Mikoto
-
-== RADICAL FREEDOM ==
-
-- TTGL -Katiska
-- HxD Tissit -Bps
-- Psycho pass,CymaticScan -- Katiska
-- Leivänpaahdin / vedenkeitin
-- BPS --Bps
-- SnK --Molin
-- Lolit
-- Parasyte
 
 == RADICAL FREEDOM ==
 <!-- .slide: data-background="img/hakase_ippai.jpg" data-background-color="black" -->
