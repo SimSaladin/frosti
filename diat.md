@@ -88,6 +88,100 @@ Tekemällä oletuksia tietenkin! Meidän oletuksemme olivat:
    <source data-src="leivänpaahdin-a.webm" type="video/webm" />
 </video>
 
+== CAPTAIN METAPHYSICS ==
+
+##Kuinka voimakas leivänpaahtimen jousen pitäisi olla että näin tapahtuisi?
+
+Tämän määrittämiseksi täytyy meidän selvittää leivän keskinopeus, alkunopeus ja loppunopeus. Näistä
+voimme johtaa alkukiihtyvyyden josta saamme jousivoiman.
+
+Tehdään aluksi tarkasteluja ja päätelmiä:
+
+  - Leivät noin 5cm x 5cm (Tämä löytyi internetistä)
+  - Japanilaiset huoneet ovat minimissään 2.1m (Tämäkin löytyi internetistä)
+  - Geneerinen pöytä on 0.7 m korkea (INTERNET)
+
+== CAPTAIN METAPHYSICS ==
+
+Leipä lensi matkan pöydältä kattoon ajassa 3s, eli keskinopeus
+
+$V(avg) = \frac{s}{t} = \frac{2.1m - 0.7m}{3s} = 0.46 \frac{m}{s^2}$
+
+Kun tarkastelemme viimeisiä frameja saamme selvitettyä leipien loppunopeuden:
+
+$V(final) = \frac{s}{t} = \frac{0.075}{\frac{1}{24}s} = 1.799.. \frac{m}{s^2}$
+
+== CAPTAIN METAPHYSICS ==
+
+## MUTTA MITÄ!
+
+$V(final) > V(avg)$
+
+Tämä tarkoittaa sitä että leipiin vaikutti lennon aikana jokin muu voima painovoiman lisäksi,
+tarkemmin jokin voima mikä kiihdytti leipiä kohti kattoa.
+
+Määritelkmäämme uusi luonnon perusvuorovaikutus: Katto-Leipä-Affiniteetti, eli lyhyesti KLA. 
+
+KLA on vakiovoima mikä määrääntyy vain leivän massasta ja universaalista Katto-Leipä-Affiniteettivakiosta,
+mitä merkitään yleisesti sigmalla $\varsigma$. Eli
+
+$F(KLA) = m(leipä) * \varsigma$
+
+== CAPTAIN METAPHYSICS ==
+
+Nyt voimme jatkaa ongelman tarkastelua kevyin sydämmin.
+
+Alkunopeus lasketaan samaan tapaan tarkastelemalla ensimmäisiä frameja leipien lähdöstä ja sen
+arvoksi saadaan:
+
+$V(init) = 0.6\frac{m}{s^2}$
+
+Nyt meillä on kaikki että voimme laskea matkan aika esiintyneen keskikiihtyvyyden:
+
+$a(avg) = \frac{V(final) - V(init)}{3s} = 0.599 \frac{m}{s^2}$
+
+== CAPTAIN METAPHYSICS ==
+
+Nyt saamme newtonin toisen lain mukaan:
+
+$F = ma$
+
+$F(kla) - F(g) = m * a(avg)$
+
+$m * \varsigma - m * g = m * a(avg)$
+
+$\varsigma = a + g = (0.599 + 9.81) \frac{m}{s^2}$
+
+$\varsigma = 10.409 \frac{m}{s^2}$
+
+== CAPTAIN METAPHYSICS ==
+
+Nyt kun tiedämme universaalin Katto-Leipä-Affiniteettikertoimen, voimme vihdoin määrittää alun
+jousivakion!
+
+Ensin lasketaan nopeasti frametutkailulla alkukiihtyvyys:
+
+$a(init) = \frac{V(init) - 0}{\frac{2}{24}s} = 7.199.. \frac{m}{s^2}$
+
+Sitten alun voimat ja kiihtyvyys mätetään newtonin kakkoseen:
+
+$F(jousi) + F(kla) - F(g) = ma(init)$
+$ => $
+$ kx = a + g - kla$
+
+== CAPTAIN METAPHYSICS ==
+
+Videsso nähdään että leivät uppoavat paahtimeen noin 4 cm syvyyteen, joten valitsemme x:ksi 2 cm
+kuvaamaan keskimääräistä poikkeamaa:
+
+$k = \frac{7.199 + 9.81 - 10.409}{0.02}\frac{N}{m}$
+
+$k = 330 \frac{N}{m}$
+
+== CAPTAIN METAPHYSICS ==
+
+-- tähän vielä mitä jousi tekisi meidän maailmassa.
+
 == RADICAL FREEDOM ==
 <video controls=yes>
    <source data-src="kageki-boobs.webm" type="video/webm" />
