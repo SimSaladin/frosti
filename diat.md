@@ -112,20 +112,25 @@ Tekemällä oletuksia tietenkin! Meidän oletuksemme olivat:
 
 == CAPTAIN METAPHYSICS ==
 
-- 120 aikayksikössä luoti näyttäisi kulkevan noin 1,5m matkan.
-- Luodin nopeus on noin 900m/s, eli koko liikesarja tapahtuu **0.0017** sekunnissa.
-- Huomataan, että taaemman tissin korkein kohta liikkuu noin 0.2m aikavälillä
-  t = 30...80, jolloin sen keskivauhti on vähintään 0.2m / (80 / 120 * 0.0017s)
-  = 280m/s.
+$120$ aikayksikössä luoti näyttäisi kulkevan noin $0,5m$ matkan.
+Luodin nopeus on noin $900m/s$, eli koko liikesarja tapahtuu ajassa $0.0006s$.
+
+Huomataan, että taaemman tissin korkein kohta liikkuu noin $0.2m$ aikavälillä
+$t = 30...80$. Keski*vauhdiksi* saadaan
+
+$$\frac{0.2m}{ 50/120 * 0.0017s} = 800m/s.$$
+
+Hetkittäinen maksiminopeus taas olisi jotain vielä suurempaa, koska kahdesti
+kiihdytys pitäisi huomioida.  Äänen nopeus ilmassa on $343m/s$. 
 
 == CAPTAIN METAPHYSICS ==
 <!-- .slide: data-background="img/FA-18_going_transonic.JPG" -->
 
-![](img/hotd_saeko.jpg) <!-- .element: class="fragment" data-fragment-index="2" -->
+![](img/hotd_saeko.jpg) <!-- .element: class="fragment" data-fragment-index="1" -->
 
-*Kun (kahdesti) kiihdytys huomioidaan saadaan tietää, että Saekon tissit
-todellakin pystyvät kulkemaan (monenkertaista) äänennopeutta.*
- <!-- .element: class="fragment" data-fragment-index="1" -->
+*Saekon tissit todella kykenevät kulkemaan monenkertaisella äänen nopeudella.*
+
+ <!-- .element: class="fragment" data-fragment-index="2" -->
 
 == RADICAL FREEDOM ==
 
