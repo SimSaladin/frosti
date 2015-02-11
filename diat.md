@@ -134,19 +134,6 @@ kiihdytys pitäisi huomioida.  Äänen nopeus ilmassa on $343m/s$.
 
 == RADICAL FREEDOM ==
 
-# BPS
-<video controls=yes>
-   <source data-src="bps-03a.webm" type="video/webm" />
-</video>
-
-== CAPTAIN METAPHYSICS ==
-## Double compiling
-> Analysoi hyökkääjän ohjelmaa sekä samanaikaisesti kehitti puolustusohjelman;
-> rinnakkaista kehitystä, rinnakkaista kääntämistä sekä rinnakkaista
-> monitorointia &mdash; kaikki samanaikaisesti puolustusohjelman ollessa ajossa.
-
-== RADICAL FREEDOM ==
-
 ![](img/250px-219Magcargo.png)
 
 == CAPTAIN METAPHYSICS ==
@@ -254,6 +241,24 @@ Eräs tieteellinen Raidetykki, Kaasupoljin ja Maxwellin Demoni
 == CAPTAIN METAPHYSICS ==
 
 Kiskotykki alias Misaka Mikoto
+
+== RADICAL FREEDOM ==
+# Animen teknologia
+
+- Tähän video överiteknologiasta.
+
+== RADICAL FREEDOM ==
+
+# BPS
+<video controls=yes>
+   <source data-src="bps-03a.webm" type="video/webm" />
+</video>
+
+== CAPTAIN METAPHYSICS ==
+## Double compiling
+> Analysoi hyökkääjän ohjelmaa sekä samanaikaisesti kehitti puolustusohjelman;
+> rinnakkaista kehitystä, rinnakkaista kääntämistä sekä rinnakkaista
+> monitorointia &mdash; kaikki samanaikaisesti puolustusohjelman ollessa ajossa.
 
 == RADICAL FREEDOM ==
 <!-- .slide: data-background="img/hakase_ippai.jpg" data-background-color="black" -->
