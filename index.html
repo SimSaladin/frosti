@@ -69,6 +69,12 @@
 					config: 'TeX-AMS_HTML-full'
 				},
 
+            math: {
+               mathjax:  'http://cdn.mathjax.org/mathjax/latest/MathJax.js',
+               config: 'TeX-AMS_HTML-full', 
+               tex2jax: { inlineMath: [['$', '$']] }
+            },
+
 				// Optional reveal.js plugins
 				dependencies: [
 					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
@@ -76,8 +82,10 @@
 					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
 					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
 					{ src: 'plugin/zoom-js/zoom.js', async: true },
+
 					{ src: 'plugin/notes/notes.js', async: true },
 					{ src: 'plugin/math/math.js', async: true }
+
 				]
 			});
 
