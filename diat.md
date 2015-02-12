@@ -129,24 +129,24 @@ voimme johtaa alkukiihtyvyyden josta saamme jousivoiman.
 Tehdään aluksi tarkasteluja ja päätelmiä:
 
   - Leivät noin 5cm x 5cm (Tämä löytyi internetistä)
-  - Japanilaiset huoneet ovat minimissään 2.1m (Tämäkin löytyi internetistä)
-  - Geneerinen pöytä on 0.7 m korkea (INTERNET)
+  - Japanilaiset huoneet ovat minimissään 2,1m (Tämäkin löytyi internetistä)
+  - Geneerinen pöytä on 0,7 m korkea (INTERNET)
 
 == CAPTAIN METAPHYSICS ==
 
 Leipä lensi matkan pöydältä kattoon ajassa 3s, eli keskinopeus
 
-$V(avg) = \frac{s}{t} = \frac{2.1m - 0.7m}{3s} = 0.46 \frac{m}{s^2}$
+$$ V_{avg} = \frac{s}{t} = \frac{2,1m - 0,7m}{3s} = 0,46 \frac{m}{s^2} $$
 
 Kun tarkastelemme viimeisiä frameja saamme selvitettyä leipien loppunopeuden:
 
-$V(final) = \frac{s}{t} = \frac{0.075}{\frac{1}{24}s} = 1.799.. \frac{m}{s^2}$
+$$ V_{final} = \frac{s}{t} = \frac{0,075}{\frac{1}{24}s} = 1,799.. \frac{m}{s^2} $$
 
 == CAPTAIN METAPHYSICS ==
 
 ## MUTTA MITÄ!
 
-$V(final) > V(avg)$
+$$ V\_{final} > V\_{avg} $$
 
 Tämä tarkoittaa sitä että leipiin vaikutti lennon aikana jokin muu voima painovoiman lisäksi,
 tarkemmin jokin voima mikä kiihdytti leipiä kohti kattoa.
@@ -156,7 +156,7 @@ Määritelkmäämme uusi luonnon perusvuorovaikutus: Katto-Leipä-Affiniteetti, 
 KLA on vakiovoima mikä määrääntyy vain leivän massasta ja universaalista Katto-Leipä-Affiniteettivakiosta,
 mitä merkitään yleisesti sigmalla $\varsigma$. Eli
 
-$F(KLA) = m(leipä) * \varsigma$
+$$ F\_{KLA} = m_{leipä} * \varsigma $$
 
 == CAPTAIN METAPHYSICS ==
 
@@ -165,25 +165,25 @@ Nyt voimme jatkaa ongelman tarkastelua kevyin sydämmin.
 Alkunopeus lasketaan samaan tapaan tarkastelemalla ensimmäisiä frameja leipien lähdöstä ja sen
 arvoksi saadaan:
 
-$V(init) = 0.6\frac{m}{s^2}$
+$$ V\_{init} = 0,6\frac{m}{s^2} $$
 
 Nyt meillä on kaikki että voimme laskea matkan aika esiintyneen keskikiihtyvyyden:
 
-$a(avg) = \frac{V(final) - V(init)}{3s} = 0.599 \frac{m}{s^2}$
+$$ a\_{avg} = \frac{V\_{final} - V\_{init}}{3s} = 0,599 \frac{m}{s^2} $$
 
 == CAPTAIN METAPHYSICS ==
 
 Nyt saamme newtonin toisen lain mukaan:
 
-$F = ma$
+$$ F = ma $$
 
-$F(kla) - F(g) = m * a(avg)$
+$$ F\_{KLA} - F\_g = m \* a\_{avg} $$
 
-$m * \varsigma - m * g = m * a(avg)$
+$$ m \* \varsigma - m \* g = m \* a\_{avg} $$
 
-$\varsigma = a + g = (0.599 + 9.81) \frac{m}{s^2}$
+$$ \varsigma = a + g = (0,599 + 9,81) \frac{m}{s^2} $$
 
-$\varsigma = 10.409 \frac{m}{s^2}$
+$$ \varsigma = 10.409 \frac{m}{s^2} $$
 
 == CAPTAIN METAPHYSICS ==
 
@@ -192,37 +192,37 @@ jousivakion!
 
 Ensin lasketaan nopeasti frametutkailulla alkukiihtyvyys:
 
-$a(init) = \frac{V(init) - 0}{\frac{2}{24}s} = 7.199.. \frac{m}{s^2}$
+$$ a\_{init} = \frac{V\_{init} - 0}{\frac{2}{24}s} = 7,199... \frac{m}{s^2} $$
 
 Sitten alun voimat ja kiihtyvyys mätetään newtonin kakkoseen:
 
-$F(jousi) + F(kla) - F(g) = ma(init)$
-$ => $
-$ kx = a + g - kla$
+$$ F\_{jousi} + F\_{KLA} - F\_g = ma\_{init} \implies kx = a + g - KLA $$
 
 == CAPTAIN METAPHYSICS ==
 
 Videsso nähdään että leivät uppoavat paahtimeen noin 4 cm syvyyteen, joten valitsemme x:ksi 2 cm
 kuvaamaan keskimääräistä poikkeamaa:
 
-$k = \frac{7.199 + 9.81 - 10.409}{0.02}\frac{N}{m}$
+$$ k = \frac{7,199 + 9,81 - 10,409}{0,02}\frac{N}{m} $$
 
-$k = 330 \frac{N}{m}$
+$$ k = 330 \frac{N}{m} $$
 
 == CAPTAIN METAPHYSICS ==
 
-#Onko tämä paljon?
+## Onko tämä paljon?
 
-Jos oletamme tämän leivänpaahtimen olemassaolon meidän maailmassamme, niin kyseinen leivänpaahdin
-leipiä valmistaessaan ampuisi leivät noin 20 cm korkeuteen.
+Jos oletamme tämän leivänpaahtimen olemassaolon meidän maailmassamme, niin
+kyseinen leivänpaahdin leipiä valmistaessaan ampuisi leivät noin 20 cm
+korkeuteen.
 
 Hieman normaalia voimakkaampi leivänpaahdin.
 
 == CAPTAIN METAPHYSICS ==
 
-#Konkluusio
+## Konkluusio
 
-Nichijoussa ei ole mielenkiintoisia leivänpaahtimia, vaan mielenkiintoisia luonnonvoimia.
+Nichijoussa ei ole mielenkiintoisia leivänpaahtimia, vaan mielenkiintoisia
+luonnonvoimia.
 
 ![](img/toast-blimp.jpg)
 
@@ -258,12 +258,12 @@ Koska taivas on maan katto.
 == CAPTAIN METAPHYSICS ==
 
 $120$ aikayksikössä luoti näyttäisi kulkevan noin $0,5m$ matkan.
-Luodin nopeus on noin $900m/s$, eli koko liikesarja tapahtuu ajassa $0.0006s$.
+Luodin nopeus on noin $900m/s$, eli koko liikesarja tapahtuu ajassa $0,0006s$.
 
 Huomataan, että taaemman tissin korkein kohta liikkuu noin $0.2m$ aikavälillä
 $t = 30...80$. Keski*vauhdiksi* saadaan
 
-$$\frac{0.2m}{ 50/120 * 0.0017s} = 800m/s.$$
+$$\frac{0.2m}{ 50/120 * 0,0006s} = 800m/s.$$
 
 Hetkittäinen maksiminopeus taas olisi jotain vielä suurempaa, koska kahdesti
 kiihdytys pitäisi huomioida.  Äänen nopeus ilmassa on $343m/s$. 
@@ -290,45 +290,56 @@ kiihdytys pitäisi huomioida.  Äänen nopeus ilmassa on $343m/s$.
 
 == CAPTAIN METAPHYSICS ==
 
-- Mitä sanovat pokedexentryt
-	- Magcargo's body temperature is approximately 18,000 degrees F. Water is vaporized on contact. If this Pokémon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog. 
-	- The shell on its back is made of hardened magma. Tens of thousands of years spent living in volcanic craters have turned Magcargo's bodies into magma. 
-	-  Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell. 
+## Mitä sanovat pokedexentryt
+
+- Magcargo's body temperature is approximately 18,000 degrees F. Water is
+  vaporized on contact. If this Pokémon is caught in the rain, the raindrops
+  instantly turn into steam, cloaking the area in a thick fog. 
+- The shell on its back is made of hardened magma. Tens of thousands of years
+  spent living in volcanic craters have turned Magcargo's bodies into magma. 
+- Its body is as hot as lava and is always billowing. Flames will occasionally
+  burst from its shell. 
 
 == CAPTAIN METAPHYSICS ==
 
-	Lämpö siirtyy kolmella tavalla
-		Johtumalla
-		Konvektiolla
-		Säteilyllä
+## Lämpö siirtyy kolmella tavalla
 
-	Triviaalisti nähdään että kannattaa tutkia säteilyä
+Johtumalla
+
+Konvektiolla
+
+Säteilyllä
+
+Triviaalisti nähdään että kannattaa tutkia säteilyä
 
 == CAPTAIN METAPHYSICS ==
 
 Säteilevästä kappaleesta saadaan 
-	$$\frac{Q}{\nabla t}=\varepsilon\sigma A(T^4-T_0^4)$$
-* $\varepsilon$ on kappaleen "mustuus".
-* A on Säteilevän kappaleen pinta-ala.
-* $\sigma$ on Bolzmanin vakio.
-* T on Säteilevän kappaleen lämpötila.
-* $T_0$ on tässä tilanteessa ulkoilman lämpötila.
+
+$$\frac{Q}{\nabla t}=\varepsilon\sigma A(T^4-T\_0^4) $$
+
+- $\varepsilon$ on kappaleen "mustuus".
+- A on Säteilevän kappaleen pinta-ala.
+- $\sigma$ on Bolzmanin vakio.
+- T on Säteilevän kappaleen lämpötila.
+- $T\_0$ on tässä tilanteessa ulkoilman lämpötila.
 
 == CAPTAIN METAPHYSICS ==
 
 Oletetaan Magcargo palloksi
 
 ![](img/huge_red_ball.jpg)
+   <!-- .element: style="float:left" -->
 
-Magcargo on 0.79m korkea jolloin pinta-alaksi saadaan 
+Magcargo on 0,79m korkea jolloin pinta-alaksi saadaan 
 
-$r=0.79m/2=0.39m$
+$$r=0,79m/2=0,39m$$
 
-$A=4 \pi r^2 = 1.96m^2$
+$$A=4 \pi r^2 = 1,96m^2$$
 
 == CAPTAIN METAPHYSICS ==
 
-Oletetaan mustuudeksi 0.5(en perustele)
+Oletetaan mustuudeksi 0,5 (en perustele)
 
 18KF on noin 10255 Kelviniä
 
@@ -337,8 +348,9 @@ Oletetaan mustuudeksi 0.5(en perustele)
 == CAPTAIN METAPHYSICS ==
 
 Mätetään luvut kaavaan
-	$$\frac{Q}{\nabla t}=(0.5)\sigma (1.96m^2)(10255K^4-313.15K^4)$$
-	= $6.145*10^8$W
+
+$$ \frac{Q}{\nabla t}=(0,5)\sigma (1,96m^2)(10255K^4-313,15K^4) $$
+$$ = 6,145*10^8W $$
 
 == CAPTAIN METAPHYSICS ==
 
@@ -352,37 +364,44 @@ Kuinka paljon tuo oikeastaan on?
 
 == CAPTAIN METAPHYSICS ==
 
-Jos Magcarco ilmestyy 10m päähän kuinka kusessa olen?
+### Jos Magcarco ilmestyy 10m päähän kuinka kusessa olen?
 
 On perusteltua olettaa että lämmöneritys on pallosymmetristä.
 
 Jos ihminen, kutsutaan häntä vaikka jarnoksi, on noin 1.8mm pitkä ja 0.5m leveä on silloin Magcargoon päin kohdistuva pinta-ala $0.9m^2$
 kokonaisvaikutusalue on:
   
-  $4\pi(10m)^2=1256.6 m^2$
-	$$\frac{0.9m^2}{1256.6m^2}=7.16*10^{-4}$$
+$$ 4\pi(10m)^2=1256,6 m^2 $$
+
+$$ \frac{0,9m^2}{1256,6m^2}=7,16*10^{-4} $$
 
 == CAPTAIN METAPHYSICS ==
 
 Jarnoon siirty täten siis energiaa
  
-${7.16\times10^{-4}}\times {6.145\times10^8}=4.4\times10^5$W
+$$ 7,16 \times 10^{-4} \times 6,145 \times 10^8 = 4,4 \times 10^5W $$
 
 == CAPTAIN METAPHYSICS ==
 
-Jarnon lämpökapasiteetti on noin $3.57 kJ kg^{-1} K^{-1}$
-Jarnomme on aika laiha sovitaan että vaikka 65kg
+Jarnon lämpökapasiteetti on noin $3,57 kJ kg^{-1} K^{-1}$.
+
+Jarnomme on aika laiha; sovitaan vaikka 65kg.
+
 Tällöin Jarnon lämpötila muuttuu: 
 
-$\frac{440\frac{kj}{s}}{3.57\frac{kJ}{kg\times K}\times 65kg}=1.9\frac{K}{s}h$
+$$\frac{440\frac{kj}{s}}{3,57\frac{kJ}{kg\times K}\times 65kg}=1,9\frac{K}{s}h$$
 
 == CAPTAIN METAPHYSICS ==
 
-Miten kouluttajien naamat sitten eivät syty tuleen?
-	-Jos kouluttajat ovat vetyä heidän lämpönsä nousee vain $0.47\frac{K}{s}$
-	-Jos MMagcargo onkin vähemmän musta? esim jos se olisi vain 0.1 musta lämmönsiirtyvyys olisi $0.39\frac{K}{s}$
-	-Jos kouluttajat ovat hirveitä läskejä ja vain näyttävät laihoilta, esim 300 kiloinen kouluttaja lämpenisi huomattavasti hitaammin
-	-Kaikki yhdessä saisivat tuloksen $\frac{88\frac{kj}{s}}{14.3\frac{kJ}{kg\times K}\times 300kg}=0.02\frac{K}{s}$	
+### Miten kouluttajien naamat sitten eivät syty tuleen?
+
+- Jos kouluttajat ovat vetyä heidän lämpönsä nousee vain $0,47\frac{K}{s}$
+- Jos Magcargo onkin vähemmän musta? Esim. jos se olisi vain 0.1 musta
+  lämmönsiirtyvyys olisi $0,39\frac{K}{s}$
+- Jos kouluttajat ovat hirveitä läskejä ja vain näyttävät laihoilta, esim
+  300-kiloinen kouluttaja lämpenisi huomattavasti hitaammin
+- Kaikki yhdessä saisivat tuloksen
+  $$\frac{88\frac{kj}{s}}{14,3\frac{kJ}{kg\times K}\times 300kg}=0,02\frac{K}{s}$$
 
 == RADICAL FREEDOM ==
 
@@ -438,21 +457,22 @@ Mooren lain
 
 == CAPTAIN METAPHYSICS ==
 
-###Mitä oikean maailman sibyl järjestelmän pitäisi käytännössä tehdä?
+### Mitä oikean maailman sibyl järjestelmän pitäisi käytännössä tehdä?
 
 Käytännössä tunnistaa vain kuvista/videoista erinäisiä ominaisuuksia, ns "feature detection"
 
 ![](img/deeplearning-features.png) <!-- .element: style="width:65%" -->
 
 == CAPTAIN METAPHYSICS ==
+<!-- use as background: data-background-video="brains.webm" data-background-video-loop="repeat" -->
 
 ### Millainen toteutus tälläiseen tarvittaisiin?
 
-Psycho-passin natiivitoteutus ei sinänsä hirveän huono!
-
-<video controls loop muted autoplay>
+<video controls loop muted autoplay style="width:90%">
  <source data-src="brains.webm" type="video/webm" />
 </video>
+
+*Psycho-passin toteutus ei sinänsä hirveän huono!*
 
 
 == RADICAL FREEDOM ==
