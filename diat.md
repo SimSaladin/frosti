@@ -8,7 +8,7 @@ Varoitus: tämä luento ei sovellu kenellekään.
 
 == RADICAL FREEDOM ==
 
-# Me olemme
+# Keitä me olemme
 
 ![](img/face-stein.jpg) <!-- .element: style="width:31.5%" -->
 ![](img/face-hakase.png) <!-- .element: style="width:33.2%" -->
@@ -64,9 +64,15 @@ järjestelmällisesti ja järkiperäisesti.*
 
 == RADICAL FREEDOM ==
 
-### Animen fysiikka
+# Animen fysiikka
 
-<video controls=yes
+== RADICAL FREEDOM ==
+
+## Tengen Toppa Gurren Lagann
+
+== CAPTAIN METAPHYSICS ==
+
+<video controls=yes>
   <source data-src="ttgl-galaxy-throwing.webm" type="video/webm" />
 </video>
 
@@ -80,10 +86,20 @@ Tekemällä oletuksia tietenkin! Meidän oletuksemme olivat:
 - Animen maailma on lähellä meidän maailmaamme
 
 == CAPTAIN METAPHYSICS ==
+
 <!-- .slide: data-background="img/migi.jpg" data-background-size="auto 100%" -->
 
 
 == RADICAL FREEDOM ==
+
+<video controls=yes>
+   <source data-src="sakura-trick.webm" type="video/webm" />
+</video>
+
+== RADICAL FREEDOM ==
+
+## Leivänpaahdin
+
 <video controls=yes>
    <source data-src="leivänpaahdin-a.webm" type="video/webm" />
 </video>
@@ -198,6 +214,9 @@ Nichijoussa ei ole mielenkiintoisia leivänpaahtimia, vaan mielenkiintoisia luon
 Koska taivas on maan katto.
 
 == RADICAL FREEDOM ==
+
+## Voimista puheenollen
+
 <video controls=yes>
    <source data-src="kageki-boobs.webm" type="video/webm" />
 </video>
@@ -206,7 +225,7 @@ Koska taivas on maan katto.
 # Tissit mainittu
 
 ![](img/hotd_boobs_ultrasonic.gif) <!-- .element: class="fragment grow" -->
-![](img/grenadier_boobs_reload.gif) <!-- .element: class="fragment grow" -->
+![](img/grenadier_boobs_reload.gif)
 
 == CAPTAIN METAPHYSICS ==
 ## Yliäänitissit?
