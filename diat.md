@@ -180,7 +180,22 @@ $k = 330 \frac{N}{m}$
 
 == CAPTAIN METAPHYSICS ==
 
--- tähän vielä mitä jousi tekisi meidän maailmassa.
+#Onko tämä paljon?
+
+Jos oletamme tämän leivänpaahtimen olemassaolon meidän maailmassamme, niin kyseinen leivänpaahdin
+leipiä valmistaessaan ampuisi leivät noin 20 cm korkeuteen.
+
+Hieman normaalia voimakkaampi leivänpaahdin.
+
+== CAPTAIN METAPHYSICS ==
+
+#Konkluusio
+
+Nichijoussa ei ole mielenkiintoisia leivänpaahtimia, vaan mielenkiintoisia luonnonvoimia.
+
+![](img/toast-blimp.jpg)
+
+Koska taivas on maan katto.
 
 == RADICAL FREEDOM ==
 <video controls=yes>
