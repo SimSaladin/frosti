@@ -424,6 +424,36 @@ Ja jokin animen fysiikka on täysin meidän käsityksemme ulkopuolella.
 
 == RADICAL FREEDOM ==
 
+## Cymatic scan psycho passissa
+
+![](img/cymatic-scan.jpg)
+
+== CAPTAIN METAPHYSICS ==
+
+### Tämä on mahdollista, kunhan ottaa huomioon:
+
+Mooren lain
+
+![](img/moores-law.png) <!-- .element: style="width:70%" -->
+
+== CAPTAIN METAPHYSICS ==
+
+###Mitä oikean maailman sibyl järjestelmän pitäisi käytännössä tehdä?
+
+Käytännössä tunnistaa vain kuvista/videoista erinäisiä ominaisuuksia, ns "feature detection"
+
+![](img/deeplearning-features.png) <!-- .element: style="width:65%" -->
+
+== CAPTAIN METAPHYSICS ==
+
+### Millainen toteutus tälläiseen tarvittaisiin?
+
+Psycho-passin natiivitoteutus ei sinänsä hirveän huono!
+
+![](img/brains.gif)
+
+== RADICAL FREEDOM ==
+
 # Animen biologia
 
 == RADICAL FREEDOM ==
