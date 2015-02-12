@@ -450,7 +450,10 @@ Käytännössä tunnistaa vain kuvista/videoista erinäisiä ominaisuuksia, ns "
 
 Psycho-passin natiivitoteutus ei sinänsä hirveän huono!
 
-![](img/brains.gif)
+<video controls loop muted autoplay>
+ <source data-src="brains.webm" type="video/webm" />
+</video>
+
 
 == RADICAL FREEDOM ==
 
