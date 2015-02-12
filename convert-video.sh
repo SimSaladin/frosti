@@ -6,9 +6,11 @@
 # License:       WTFPL
 #-----------------------------------------------------------------------------
 
-# ./convert-video <infile> <startfrom> <endat> <outputto>
+# ./convert-video <infile> <start_at> <duration> <output_to>
 
-ffmpeg -i "$1" -ss $2 -to $3 \
-   -acodec libvorbis -aq 5 -ac 2 -qmax 25 \
+ffmpeg \
+   -ss $2 -i "$1" -t $3 \
+   -sn \
+   -acodec libvorbis -ar 48k -aq 5 -ac 2 -qmax 25 \
    -threads 2 \
    "$4"

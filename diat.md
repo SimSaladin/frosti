@@ -1,3 +1,5 @@
+<!-- .slide: data-background="img/kurisu.jpg" -->
+
 # Anime tieteen silmin
 
 ---
@@ -17,7 +19,7 @@ Twitterissä: #korviavihlovattissit
 
 == RADICAL FREEDOM ==
 
-# Me olemme
+# Keitä me olemme
 
 ![](img/face-stein.jpg) <!-- .element: style="width:31.5%" -->
 ![](img/face-hakase.png) <!-- .element: style="width:33.2%" -->
@@ -58,30 +60,34 @@ järjestelmällisesti ja järkiperäisesti.*
 ### ...ja järkiperäisesti
 ![](img/steins-gate-mad-scientist.png) <!-- .element: style="width:100%" -->
 
+== CAPTAIN METAPHYSICS ==
+![](img/chaika_shocking_truth.jpg)
+
 == RADICAL FREEDOM ==
 
-## Luennon kulku
+# Luennon kulku
 
-- Animen fysiikka
-- Animen teknologia
+1. Animen fysiikka
+2. Animen teknologia
   - Mahdollinen
   - Mahdoton
-- Animen biologia
-
-== RADICAL FREEDOM ==
-<!-- .slide: data-background="img/mikuru_come_with_me.jpg" data-background-size="auto 100%" -->
+3. Animen biologia
 
 == RADICAL FREEDOM ==
 
-### Animen fysiikka
+# Animen fysiikka
 
-<video controls=yes
+== RADICAL FREEDOM ==
+
+## Tengen Toppa Gurren Lagann
+
+<video controls=yes>
   <source data-src="ttgl-galaxy-throwing.webm" type="video/webm" />
 </video>
 
 == CAPTAIN METAPHYSICS ==
 
-###Miten tätä voi lähestyä tieteellisesti?!
+### Miten tätä voi lähestyä tieteellisesti?!
 
 Tekemällä oletuksia tietenkin! Meidän oletuksemme olivat:
 
@@ -89,13 +95,29 @@ Tekemällä oletuksia tietenkin! Meidän oletuksemme olivat:
 - Animen maailma on lähellä meidän maailmaamme
 
 == CAPTAIN METAPHYSICS ==
+
 <!-- .slide: data-background="img/migi.jpg" data-background-size="auto 100%" -->
 
 
 == RADICAL FREEDOM ==
+
+## Yurifysiikkaa
+
+<video controls=yes>
+   <source data-src="sakura-trick.webm" type="video/webm" />
+</video>
+
+*Sakura Trick #1*
+
+== RADICAL FREEDOM ==
+
+## Leivänpaahdin
+
 <video controls=yes>
    <source data-src="leivänpaahdin-a.webm" type="video/webm" />
 </video>
+
+*Nichijou #5*
 
 == CAPTAIN METAPHYSICS ==
 
@@ -207,15 +229,20 @@ Nichijoussa ei ole mielenkiintoisia leivänpaahtimia, vaan mielenkiintoisia luon
 Koska taivas on maan katto.
 
 == RADICAL FREEDOM ==
+
+## Voimista puheenollen
+
 <video controls=yes>
    <source data-src="kageki-boobs.webm" type="video/webm" />
 </video>
+
+*Tantei Kageki Milky Holmes TD #1*
 
 == RADICAL FREEDOM ==
 # Tissit mainittu
 
 ![](img/hotd_boobs_ultrasonic.gif) <!-- .element: class="fragment grow" -->
-![](img/grenadier_boobs_reload.gif) <!-- .element: class="fragment grow" -->
+![](img/grenadier_boobs_reload.gif)
 
 == CAPTAIN METAPHYSICS ==
 ## Yliäänitissit?
@@ -247,8 +274,15 @@ kiihdytys pitäisi huomioida.  Äänen nopeus ilmassa on $343m/s$.
 ![](img/hotd_saeko.jpg) <!-- .element: class="fragment" data-fragment-index="1" -->
 
 *Saekon tissit todella kykenevät kulkemaan monenkertaisella äänen nopeudella.*
+ <!-- .element: class="fragment" data-fragment-index="1" -->
 
- <!-- .element: class="fragment" data-fragment-index="2" -->
+<audio controls>
+   <source src="yliäänitissit.ogg" type="audio/ogg">
+</audio>
+ <!-- .element: class="fragment" data-fragment-index="1" -->
+
+== CAPTAIN METAPHYSICS ==
+<!-- .slide: data-background-transition="zoom" data-background="img/rip_them_off.jpg" data-background-size="auto 100%" -->
 
 == RADICAL FREEDOM ==
 
@@ -362,30 +396,57 @@ Kiskotykki alias Misaka Mikoto
 
 == RADICAL FREEDOM ==
 
-<video controls=yes
+<video controls=yes>
   <source data-src="ttgl-drowning-in-space.webm" type="video/webm" />
 </video>
 
 Ja jokin animen fysiikka on täysin meidän käsityksemme ulkopuolella.
 
 == RADICAL FREEDOM ==
+<!-- .slide: data-background="img/divergence-meter.jpg" -->
 
 # Animen teknologia
 
-- Tähän video överiteknologiasta.
-
 == RADICAL FREEDOM ==
 
-# BPS
+## Ohjelmointi animessa
 <video controls=yes>
    <source data-src="bps-03a.webm" type="video/webm" />
 </video>
+
+*Battle Programmer Shirase #1*
 
 == CAPTAIN METAPHYSICS ==
 ## Double compiling
 > Analysoi hyökkääjän ohjelmaa sekä samanaikaisesti kehitti puolustusohjelman;
 > rinnakkaista kehitystä, rinnakkaista kääntämistä sekä rinnakkaista
 > monitorointia &mdash; kaikki samanaikaisesti puolustusohjelman ollessa ajossa.
+
+== RADICAL FREEDOM ==
+
+# Animen biologia
+
+== RADICAL FREEDOM ==
+
+Me emme ole biologeja, mutta katsotaan silti pari esimerkkiä.
+
+== CAPTAIN METAPHYSICS ==
+
+![](img/izaya_stops_sword.png)
+
+Miekan voi pysäyttää taskuveitsellä (Izaya Orihara)
+
+== CAPTAIN METAPHYSICS ==
+
+![](img/izaya_2.jpg)
+
+ja roskiskin pysähtyy ihan yhtä helposti. 
+
+== CAPTAIN METAPHYSICS ==
+
+Usein liioittelu on sopivaa, mutta silläkin on rajansa...
+
+![](img/anime_eyes.jpg)
 
 == RADICAL FREEDOM ==
 <!-- .slide: data-background="img/hakase_ippai.jpg" data-background-color="black" -->
