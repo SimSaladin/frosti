@@ -2,9 +2,18 @@
 
 ---
 
-Varoitus: tämä luento ei sovellu kenellekään.
+Desucon frostbite -15
 
 ---
+
+Twitterissä: #korviavihlovattissit
+
+== RADICAL FREEDOM ==
+
+#Disclaimer
+
+- Luento sisältää luonnontieteilijöille sopimatonta materiaalia
+- Luennon pitäjät sisältävät spoilereita
 
 == RADICAL FREEDOM ==
 
