@@ -265,7 +265,12 @@ kiihdytys pitäisi huomioida.  Äänen nopeus ilmassa on $343m/s$.
 ![](img/hotd_saeko.jpg) <!-- .element: class="fragment" data-fragment-index="1" -->
 
 *Saekon tissit todella kykenevät kulkemaan monenkertaisella äänen nopeudella.*
- <!-- .element: class="fragment" data-fragment-index="2" -->
+ <!-- .element: class="fragment" data-fragment-index="1" -->
+
+<audio controls>
+   <source src="yliäänitissit.ogg" type="audio/ogg">
+</audio>
+ <!-- .element: class="fragment" data-fragment-index="1" -->
 
 == CAPTAIN METAPHYSICS ==
 <!-- .slide: data-background-transition="zoom" data-background="img/rip_them_off.jpg" data-background-size="auto 100%" -->
