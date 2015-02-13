@@ -69,8 +69,6 @@ järjestelmällisesti ja järkiperäisesti.*
 
 1. Animen fysiikka
 2. Animen teknologia
-  - Mahdollinen
-  - Mahdoton
 3. Animen biologia
 
 == RADICAL FREEDOM ==
@@ -93,11 +91,6 @@ Tekemällä oletuksia tietenkin! Meidän oletuksemme olivat:
 
 - Havaintomme ovat oikeassa
 - Animen maailma on lähellä meidän maailmaamme
-
-== CAPTAIN METAPHYSICS ==
-
-<!-- .slide: data-background="img/migi.jpg" data-background-size="auto 100%" -->
-
 
 == RADICAL FREEDOM ==
 
@@ -485,21 +478,9 @@ Me emme ole biologeja, mutta katsotaan silti pari esimerkkiä.
 
 == CAPTAIN METAPHYSICS ==
 
-![](img/izaya_stops_sword.png)
-
-Miekan voi pysäyttää taskuveitsellä (Izaya Orihara)
-
-== CAPTAIN METAPHYSICS ==
-
-![](img/izaya_2.jpg)
-
-ja roskiskin pysähtyy ihan yhtä helposti. 
-
-== CAPTAIN METAPHYSICS ==
-
-Usein liioittelu on sopivaa, mutta silläkin on rajansa...
-
 ![](img/anime_eyes.jpg)
+
+## Nope.
 
 == RADICAL FREEDOM ==
 <!-- .slide: data-background="img/hakase_ippai.jpg" data-background-color="black" -->
