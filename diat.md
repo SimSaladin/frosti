@@ -92,6 +92,7 @@ Tekemällä oletuksia tietenkin! Meidän oletuksemme olivat:
 - Havaintomme ovat oikeassa
 - Animen maailma on lähellä meidän maailmaamme
 
+
 == RADICAL FREEDOM ==
 
 ## Yurifysiikkaa
@@ -478,9 +479,21 @@ Me emme ole biologeja, mutta katsotaan silti pari esimerkkiä.
 
 == CAPTAIN METAPHYSICS ==
 
+![](img/izaya_stops_sword.png)
+
+Miekan voi pysäyttää taskuveitsellä (Izaya Orihara)
+
+== CAPTAIN METAPHYSICS ==
+
+![](img/izaya_2.jpg)
+
+ja roskiskin pysähtyy ihan yhtä helposti. 
+
+== CAPTAIN METAPHYSICS ==
+
 ![](img/anime_eyes.jpg)
 
-## Nope.
+*Nope.*
 
 == RADICAL FREEDOM ==
 <!-- .slide: data-background="img/hakase_ippai.jpg" data-background-color="black" -->
