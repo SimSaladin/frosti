@@ -11,6 +11,9 @@ Desucon frostbite -15
 Twitterissä: #korviavihlovattissit
 
 == RADICAL FREEDOM ==
+<!-- .slide: data-background="img/God_kills_catgirl.gif" data-background-size="auto 100%" -->
+
+== RADICAL FREEDOM ==
 
 #Disclaimer
 
@@ -115,16 +118,18 @@ Tekemällä oletuksia tietenkin! Meidän oletuksemme olivat:
 
 == CAPTAIN METAPHYSICS ==
 
-##Kuinka voimakas leivänpaahtimen jousen pitäisi olla että näin tapahtuisi?
+## Kuinka voimakas leivänpaahtimen jousen pitäisi olla että näin tapahtuisi?
 
 Tämän määrittämiseksi täytyy meidän selvittää leivän keskinopeus, alkunopeus ja loppunopeus. Näistä
 voimme johtaa alkukiihtyvyyden josta saamme jousivoiman.
 
-Tehdään aluksi tarkasteluja ja päätelmiä:
+== CAPTAIN METAPHYSICS ==
 
-  - Leivät noin 5cm x 5cm (Tämä löytyi internetistä)
-  - Japanilaiset huoneet ovat minimissään 2,1m (Tämäkin löytyi internetistä)
-  - Geneerinen pöytä on 0,7 m korkea (INTERNET)
+### Tehdään aluksi tarkasteluja ja päätelmiä
+
+- Leivät noin 5cm x 5cm (Tämä löytyi internetistä)
+- Japanilaiset huoneet ovat minimissään 2,1m (Tämäkin löytyi internetistä)
+- Geneerinen pöytä on 0,7 m korkea (INTERNET)
 
 == CAPTAIN METAPHYSICS ==
 
@@ -134,7 +139,7 @@ $$ V_{avg} = \frac{s}{t} = \frac{2,1m - 0,7m}{3s} = 0,46 \frac{m}{s^2} $$
 
 Kun tarkastelemme viimeisiä frameja saamme selvitettyä leipien loppunopeuden:
 
-$$ V_{final} = \frac{s}{t} = \frac{0,075}{\frac{1}{24}s} = 1,799.. \frac{m}{s^2} $$
+$$ V_{final} = \frac{s}{t} = \frac{0,075}{\frac{1}{24}s} = 1,799... \frac{m}{s^2} $$
 
 == CAPTAIN METAPHYSICS ==
 
@@ -145,7 +150,9 @@ $$ V\_{final} > V\_{avg} $$
 Tämä tarkoittaa sitä että leipiin vaikutti lennon aikana jokin muu voima painovoiman lisäksi,
 tarkemmin jokin voima mikä kiihdytti leipiä kohti kattoa.
 
-Määritelkmäämme uusi luonnon perusvuorovaikutus: Katto-Leipä-Affiniteetti, eli lyhyesti KLA. 
+== CAPTAIN METAPHYSICS ==
+
+Määritelkäämme uusi luonnon perusvuorovaikutus: Katto-Leipä-Affiniteetti, eli lyhyesti KLA. 
 
 KLA on vakiovoima mikä määrääntyy vain leivän massasta ja universaalista Katto-Leipä-Affiniteettivakiosta,
 mitä merkitään yleisesti sigmalla $\varsigma$. Eli
@@ -190,7 +197,8 @@ $$ a\_{init} = \frac{V\_{init} - 0}{\frac{2}{24}s} = 7,199... \frac{m}{s^2} $$
 
 Sitten alun voimat ja kiihtyvyys mätetään newtonin kakkoseen:
 
-$$ F\_{jousi} + F\_{KLA} - F\_g = ma\_{init} \implies kx = a + g - KLA $$
+$$ F\_{jousi} + F\_{KLA} - F\_g = ma\_{init} $$
+$$ \implies kx = a + g - KLA $$
 
 == CAPTAIN METAPHYSICS ==
 
@@ -280,19 +288,9 @@ kiihdytys pitäisi huomioida.  Äänen nopeus ilmassa on $343m/s$.
 
 == RADICAL FREEDOM ==
 
+# Magcargo
+
 ![](img/250px-219Magcargo.png)
-
-== CAPTAIN METAPHYSICS ==
-
-## Mitä sanovat pokedexentryt
-
-- Magcargo's body temperature is approximately 18,000 degrees F. Water is
-  vaporized on contact. If this Pokémon is caught in the rain, the raindrops
-  instantly turn into steam, cloaking the area in a thick fog. 
-- The shell on its back is made of hardened magma. Tens of thousands of years
-  spent living in volcanic craters have turned Magcargo's bodies into magma. 
-- Its body is as hot as lava and is always billowing. Flames will occasionally
-  burst from its shell. 
 
 == CAPTAIN METAPHYSICS ==
 
@@ -405,7 +403,115 @@ Eräs tieteellinen Raidetykki, Kaasupoljin ja Maxwellin Demoni
 
 == CAPTAIN METAPHYSICS ==
 
-Kiskotykki alias Misaka Mikoto
+## Kiskotykki alias Misaka Mikoto
+
+Kyky: hallita smg-kenttiä, ja jotain...
+
+== CAPTAIN METAPHYSICS ==
+
+Kyvyn mainitaan kykenemään luomaan miljoona volttia, tämä on hieman retardi tapa
+ilmaista asia, mutta mitä pienistä.
+
+Koska Hahmomme on muutenkin niin "sähköinen" oletetaan että muutkinkin suureet
+vastaavat yläpilvisalamaa.
+
+== CAPTAIN METAPHYSICS ==
+
+![](img/vlcsnap-102536.png)
+
+== CAPTAIN METAPHYSICS ==
+
+Kyseisten salamien energiamäärä on noin 300Gj, eli siis noin 50
+öljytynnyrillistä.
+
+== CAPTAIN METAPHYSICS ==
+
+![](img/salamia_kirkkaalla_taivaalla.jpg)
+
+== RADICAL FREEDOM ==
+
+## Kaasupoljin
+
+![](img/Accelerator.png)
+
+== CAPTAIN METAPHYSICS ==
+
+Kaasupolkimen voimaksi voidaan olettaa muunnos ja yksikkömatriisien luominen.
+
+Esimerkki matriisista joka kääntää vektorin suunnan:
+
+\begin{bmatrix}
+       -1 & 0 & 0 \\\\
+       0 & -1 & 0 \\\\
+       0 & 0 & -1
+     \end{bmatrix}
+
+== CAPTAIN METAPHYSICS ==
+
+Jos kiskotykki muuntelisi sähkökenttäänsä seuraavantyypisellä muunnoksella
+
+\begin{bmatrix}
+       \sin(z/t^2) & \cos(\sin(z/t^3)) & tan(t) \\\\
+       -0.432 \times y & 0.324242 \times x & z-t \times x \times y \\\\
+       t \times x \times y /sin(t) & portugalin inflaatio & hiustesi lukumäärä
+     \end{bmatrix}
+	 
+Kaasupolkimesta saattaisi tuntua höpöltä
+
+== RADICAL FREEDOM ==
+
+## Sarjan voimakkain kyky
+
+<video controls=yes>
+   <source data-src="Uiharu.webm" type="video/webm" />
+</video>
+
+== CAPTAIN METAPHYSICS ==
+
+Koska asiaa ei esitelty enempää, voin kertoa teille tosiasioita elävästä elämästä!
+
+Periaatteessa sarjan ainut Esper-voima jonka ei tarvi repiä energiaa tyhjästä.
+
+$$S=\sum_{i}^{} p_i ln  pi_i$$
+
+== RADICAL FREEDOM ==
+
+<video controls=yes>
+   <source data-src="shingeki_no_kyojin_-_3d_maneuver_gea-j52KeLvoJcw_fmt43-orig.webm" type="video/webm" />
+</video>
+
+
+== CAPTAIN METAPHYSICS ==
+
+##Angel Aaltonen
+
+![](img/Anheru_pic.png)
+
+== CAPTAIN METAPHYSICS ==
+
+Koska olemme approksimoijia, approksimoimme 3D-maneuver-gearin rakettirepuksi.
+
+== CAPTAIN METAPHYSICS ==
+
+Epämääräisistä lähteistä saadaan selville että yhtälö joka kuvaa polttoaineen ja
+purkausnopeuden suhdetta on
+
+$$M_a = M_0(1-e^{-\Delta v / ulostulonopeus})$$
+
+== CAPTAIN METAPHYSICS ==
+
+Esim.
+
+$$ 20kg=100kg(1-e^{\frac{-100km}{h}/x}),\ x=448km/h $$
+
+== CAPTAIN METAPHYSICS ==
+  
+Mutta selvästikin tällä tavalla kaasu loppuisi selvästikkin liian nopeasti joka
+selvästikkin sarjasta nähdään.
+
+Siksi tehdäänkin oletus että ilmaa menee 1kg per kiihdytys
+
+$$1kg=100kg(1-e^{\frac{-100km}{h}/x}),\ x = \approx 10000 \frac{-Km}{h}$$
 
 == RADICAL FREEDOM ==
 
