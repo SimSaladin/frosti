@@ -11,14 +11,14 @@ Desucon frostbite -15
 Twitterissä: #korviavihlovattissit
 
 == RADICAL FREEDOM ==
-<!-- .slide: data-background="img/God_kills_catgirl.gif" data-background-size="auto 100%" -->
-
-== RADICAL FREEDOM ==
 
 #Disclaimer
 
 - Luento sisältää luonnontieteilijöille sopimatonta materiaalia
 - Luennon pitäjät sisältävät spoilereita
+
+== RADICAL FREEDOM ==
+<!-- .slide: data-background="img/God_kills_catgirl.gif" data-background-size="auto 100%" -->
 
 == RADICAL FREEDOM ==
 
