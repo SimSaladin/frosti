@@ -3,6 +3,7 @@
 ---
 
 Varoitus: tämä luento ei sovellu kenellekään.
+![](img/God_kills_catgirl.gif)
 
 ---
 
@@ -147,8 +148,7 @@ kiihdytys pitäisi huomioida.  Äänen nopeus ilmassa on $343m/s$.
 
 == RADICAL FREEDOM ==
 
-# TODO
-
+Magcargo
 
 ![](img/250px-219Magcargo.png)
 
@@ -251,6 +251,103 @@ Eräs tieteellinen Raidetykki, Kaasupoljin ja Maxwellin Demoni
 == RADICAL FREEDOM ==
 
 Kiskotykki alias Misaka Mikoto
+Kyky: hallita smg-kenttiä, ja jotain...
+
+== RADICAL FREEDOM ==
+
+Kyvyn mainitaan kykenemään luomaan miljoona volttia, tämä on hieman retardi tapa ilmaista asia, mutta mitä pienistä
+Koska Hahmomme on muutenkin niin "sähköinen" oletetaan että muutkinkin suureet vastaavat yläpilvisalamaa
+
+== RADICAL FREEDOM ==
+
+![](img/vlcsnap-102536.png)
+
+== RADICAL FREEDOM ==
+
+kyseisten salamien energiamäärä on noin 300Gj
+eli siis noin 50 öljytynnyrillistä
+
+== RADICAL FREEDOM ==
+
+![](img/salamia_kirkkaalla_taivaalla.jpg)
+
+== RADICAL FREEDOM ==
+
+## Kaasupoljin
+![](img/Accelerator.png)
+
+== RADICAL FREEDOM ==
+
+Kaasupolkimen voimaksi voidaan olettaa muunnos ja yksikkömatriisien luominen.
+
+Esimerkki matriisista joka kääntää vektorin suunnan
+\begin{bmatrix}
+       -1 & 0 & 0 \\\\
+       0 & -1 & 0 \\\\
+       0 & 0 & -1
+     \end{bmatrix}
+
+
+
+== RADICAL FREEDOM ==
+
+Jos kiskotykki muuntelisi sähkökenttäänsä seuraavantyypisellä muunnoksella
+
+\begin{bmatrix}
+       \sin(z/t^2) & \cos(\sin(z/t^3)) & tan(t) \\\\
+       -0.432 \times y & 0.324242 \times x & z-t \times x \times y \\\\
+       t \times \times x \times y /sin(t) & portugalin inflaatio & hiustesi lukumäärä
+     \end{bmatrix}
+	 
+Kaasupolkimesta saattaisi tuntua höpöltä
+
+== RADICAL FREEDOM ==
+
+## Sarjan voimakkain kyky
+
+<video controls=yes>
+   <source data-src="Uiharu.webm" type="video/webm" />
+</video>
+
+
+== RADICAL FREEDOM ==
+
+Koska asiaa ei esitelty enempää, voin kertoa teille tosiasioita elävästä elämästä.
+Perjaatteessa sarjan ainut Espervoima jonka ei tarvi repiä energiaa tyhjästä
+
+$$S=\sum_{i}^{} p_i ln  pi_i$$
+
+
+== RADICAL FREEDOM ==
+
+<video controls=yes>
+   <source data-src="shingeki_no_kyojin_-_3d_maneuver_gea-j52KeLvoJcw_fmt43-orig.webm" type="video/webm" />
+</video>
+
+
+== RADICAL FREEDOM ==
+
+##Angel Aaltonen
+
+![](img/Anheru_pic.png)
+
+== RADICAL FREEDOM ==
+
+Koska olemme aproksimoijia, aproksimoimme 3D-maneuver-gearia rakettirepuksi
+
+== RADICAL FREEDOM ==
+
+epämääräisistä lähteistä saadaan selville että yhtälö joka kuvaa polttoaineen ja purkausnopeuden suhdetta on
+$$M_a = M_0(1-e^{-\Delta v / ulostulonopeus})$$
+
+== RADICAL FREEDOM ==
+esim
+$$20kg=100kg(1-e^{(\frac{-100km}{h}/x}), x =448km/h$$
+
+== RADICAL FREEDOM ==
+  
+mutta selvästikkin tällä tavalla kaasu loppuisi selvästikkin liian nopeasti joka selvästikkin sarjasta nähdään,siksi tehdäänkin oletus että ilmaa menee 1kg per kiihdytys
+$$1kg=100kg(1-e^{(\frac{-100km}{h}/x}), x = \approx 10000 \frac{-Km}{h}$$
 
 == RADICAL FREEDOM ==
 <!-- .slide: data-background="img/hakase_ippai.jpg" data-background-color="black" -->
@@ -259,3 +356,7 @@ Kiskotykki alias Misaka Mikoto
 
 Tekijätiimi kiittää ja kumartaa, poistuu vähin äänin takavasemmalle eikä vastaa
 esityksessä esiintyneistä asiavirheistä.
+
+=======
+   <!-- .element: style="background:rgba(0,0,0,0.3)" -->
+
