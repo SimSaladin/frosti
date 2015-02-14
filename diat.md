@@ -202,8 +202,8 @@ $$ \implies kx = a + g - KLA $$
 
 == CAPTAIN METAPHYSICS ==
 
-Videsso nähdään että leivät uppoavat paahtimeen noin 4 cm syvyyteen, joten valitsemme x:ksi 2 cm
-kuvaamaan keskimääräistä poikkeamaa:
+Videossa nähdään että leivät uppoavat paahtimeen noin 4 cm syvyyteen, joten
+valitsemme x:ksi 2 cm kuvaamaan keskimääräistä poikkeamaa:
 
 $$ k = \frac{7,199 + 9,81 - 10,409}{0,02}\frac{N}{m} $$
 
@@ -512,6 +512,10 @@ selvästikkin sarjasta nähdään.
 Siksi tehdäänkin oletus että ilmaa menee 1kg per kiihdytys
 
 $$1kg=100kg(1-e^{\frac{-100km}{h}/x}),\ x \approx 10000 \frac{-Km}{h}$$
+
+== CAPTAIN METAPHYSICS ==
+
+![](img/raketti-plot.svg)
 
 == RADICAL FREEDOM ==
 
