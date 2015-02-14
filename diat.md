@@ -472,7 +472,7 @@ Koska asiaa ei esitelty enempää, voin kertoa teille tosiasioita elävästä el
 
 Periaatteessa sarjan ainut Esper-voima jonka ei tarvi repiä energiaa tyhjästä.
 
-$$S=\sum_{i}^{} p_i ln  pi_i$$
+$$S=-k\_B \sum_{i}^{} p_i ln  pi\_i$$
 
 == RADICAL FREEDOM ==
 
@@ -511,7 +511,7 @@ selvästikkin sarjasta nähdään.
 
 Siksi tehdäänkin oletus että ilmaa menee 1kg per kiihdytys
 
-$$1kg=100kg(1-e^{\frac{-100km}{h}/x}),\ x = \approx 10000 \frac{-Km}{h}$$
+$$1kg=100kg(1-e^{\frac{-100km}{h}/x}),\ x \approx 10000 \frac{-Km}{h}$$
 
 == RADICAL FREEDOM ==
 
